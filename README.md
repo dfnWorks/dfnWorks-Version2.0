@@ -1,1 +1,3 @@
-For information on how to get dfnWorks up and running, please see the document dfnWorks.pdf, in this directory.
+## NOTICE ##
+
+This repository has been deprecated in favor of: https://github.com/lanl/dfnWorks
